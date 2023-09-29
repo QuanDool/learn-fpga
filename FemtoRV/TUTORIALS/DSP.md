@@ -17,7 +17,7 @@ has some explations, page 33.
 Principles
 ----------
 A good approach to understand something is trying to reinvent it. So
-let's imagine you want to invent a building bloc that one can assemble
+let's imagine you want to invent a building block that one can assemble
 to create nxn multipliers, where n is an arbitrary bitwidth. 
 Let us take a look at how one computes a product:
 
